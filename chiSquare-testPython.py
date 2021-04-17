@@ -32,3 +32,7 @@ plt.title('Chi-Square Distribution')
 
 plt.legend()
 plt.show()
+
+"""
+@copyright (c) 2021 ikhomkodes
+"""
